@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.button-group {
+  padding-bottom: 4px;
+  display: block;
+}
+
+.button-group button {
+  background-color: blue;
+  color: white;
+  margin: 3px;
+}
+
+.ag-pivot-mode-panel {
+  display: none;
+}
